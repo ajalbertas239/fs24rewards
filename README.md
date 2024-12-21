@@ -1,3 +1,4 @@
+# Check screenshot uploaded to see some of the reward files.
 
 # Unlocking Hidden Rewards: Editing UXML Files for Debugging and Bonuses
 
